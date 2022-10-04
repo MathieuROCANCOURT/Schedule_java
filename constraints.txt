@@ -1,0 +1,7 @@
+MAX_SPAN 60 cafe bus salut
+PRECEDENCE salut cours
+MEET bus cours
+PRECEDENCE_GAP 20 cafe cours
+PRECEDENCE bus cours
+
+
